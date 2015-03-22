@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Vitals Recorder </string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_temperature">Temperature</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_activity_add_temp">addTemp</string>
+    <string name="title_activity_view_temp">viewTemp</string>
+    <string name="title_activity_hrate">hrate</string>
+    <string name="title_activity_add_rate">addRate</string>
+    <string name="title_activity_view_rate">viewRate</string>
+    <string name="title_activity_oxygen">oxygen</string>
+    <string name="title_activity_add_oxygen">addOxygen</string>
+    <string name="title_activity_view_oxygen">viewOxygen</string>
+    <string name="title_activity_pressure">pressure</string>
+    <string name="title_activity_add_pressure">addPressure</string>
+    <string name="title_activity_view_pressure">viewPressure</string>
+
+</resources>

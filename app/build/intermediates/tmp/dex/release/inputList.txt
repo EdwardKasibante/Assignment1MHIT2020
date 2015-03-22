@@ -1,0 +1,5 @@
+F:\Teach me\android training\Final project\Vits2\app\build\intermediates\classes\release
+F:\Teach me\android training\Final project\Vits2\app\build\intermediates\pre-dexed\release\support-annotations-21.0.3-f171177dd081357efff78d4d0d83a7c3803ed38e.jar
+F:\Teach me\android training\Final project\Vits2\app\build\intermediates\pre-dexed\release\internal_impl-21.0.3-a4f92ccf60a7fd97d83005e89c32e0062bbbc37d.jar
+F:\Teach me\android training\Final project\Vits2\app\build\intermediates\pre-dexed\release\classes-85832d21bc8c681169fe5a3cb1730416cee917e3.jar
+F:\Teach me\android training\Final project\Vits2\app\build\intermediates\pre-dexed\release\classes-9b8d0ee0fa7b201103a07ce09a9b2d149a483c1f.jar

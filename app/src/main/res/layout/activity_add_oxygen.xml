@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:padding="5px">
+    <TextView android:id="@+id/label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enter Oxygen Level:"
+        android:layout_alignBaseline="@+id/PressureText"
+        android:layout_alignParentLeft="true"/>
+    <EditText
+        android:id="@id/PressureText"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/label"
+        android:layout_alignParentTop="true"
+        android:inputType="number"
+        />
+    <Button
+        android:id="@+id/submit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/PressureText"
+        android:layout_alignRight="@id/PressureText"
+        android:text="Save" />
+</RelativeLayout>
