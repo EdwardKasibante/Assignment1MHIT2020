@@ -1,0 +1,38 @@
+com/example/kim/vitals/SqlSettings.java
+ com.example.kim.vitals.SqlSettings
+ com.example.kim.vitals.SqlSettings$DbHelper
+com/example/kim/vitals/viewRate.java
+ com.example.kim.vitals.viewRate
+com/example/kim/vitals/addPressure.java
+ com.example.kim.vitals.addPressure
+com/example/kim/vitals/viewPressure.java
+ com.example.kim.vitals.viewPressure
+com/example/kim/vitals/BuildConfig.java
+ com.example.kim.vitals.BuildConfig
+com/example/kim/vitals/viewOxygen.java
+ com.example.kim.vitals.viewOxygen
+com/example/kim/vitals/addOxygen.java
+ com.example.kim.vitals.addOxygen
+com/example/kim/vitals/pressure.java
+ com.example.kim.vitals.pressure
+com/example/kim/vitals/addTemp.java
+ com.example.kim.vitals.addTemp
+com/example/kim/vitals/KimzProvider.java
+ com.example.kim.vitals.KimzProvider
+ com.example.kim.vitals.KimzProvider$DBHelper
+com/example/kim/vitals/hrate.java
+ com.example.kim.vitals.hrate
+com/example/kim/vitals/addRate.java
+ com.example.kim.vitals.addRate
+com/example/kim/vitals/oxygen.java
+ com.example.kim.vitals.oxygen
+com/example/kim/vitals/viewTemp.java
+ com.example.kim.vitals.viewTemp
+com/example/kim/vitals/MainActivity.java
+ com.example.kim.vitals.MainActivity
+ com.example.kim.vitals.MainActivity$1
+ com.example.kim.vitals.MainActivity$2
+ com.example.kim.vitals.MainActivity$3
+ com.example.kim.vitals.MainActivity$4
+com/example/kim/vitals/Temperature.java
+ com.example.kim.vitals.Temperature

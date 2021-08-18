@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Vits2.iml" filepath="$PROJECT_DIR$/Vits2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VitalsApp.iml" filepath="$PROJECT_DIR$/.idea/modules/VitalsApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/VitalsApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/VitalsApp.app.iml" />
     </modules>
   </component>
 </project>
-
